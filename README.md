@@ -1,4 +1,4 @@
-
+___
 title: "Caso 3. Medidas de localizaciÃ³n. Media, mediana y moda"
 author: "herrera luna silvia nayeli"
 date: "23/02/2022"
