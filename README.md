@@ -392,4 +392,4 @@ La cantidad de elementos de los datos es de `r n`, los valores máximos y mínim
 
 La media es de `r media`, la mediana es `r mediana` y la moda es `r moda`, habiendo alguna diferencia en donde la media es mayor que la mediana la distribución es asíncrona con sesgo positivo.
 
-# Referencias bibliográficas
+
